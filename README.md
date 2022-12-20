@@ -21,7 +21,7 @@ Stellar is designed to work flawlessly with all the latest and modern web browse
 - Chrome (latest)
 - FireFox (latest)
 - Safari (latest)
-- Opera (latest)
+- Opera (latest) 
 - IE10+  
 
 <h1>License Information:</h1>
