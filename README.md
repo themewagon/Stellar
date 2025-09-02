@@ -12,7 +12,7 @@
 
 Clone from GitHub 
 ```
-https://github.com/themewagon/stellar.git
+https://github.com/themewagon/Stellar.git
 ```
 
 ## Author
