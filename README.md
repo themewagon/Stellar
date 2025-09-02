@@ -2,7 +2,7 @@
 
 #### Preview
 
- - [Demo](https://themewagon.github.io/stellar/)
+ - [Demo](https://themewagon.github.io/Stellar/)
 
 #### Download
  - [Download from ThemeWagon](https://themewagon.com/themes/free-bootstrap-4-web-application-dashboard-template/)
