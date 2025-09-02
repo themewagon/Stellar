@@ -1,14 +1,28 @@
-## BootstrapDash Stellar Admin Template
+# PolluxUI – Free Bootstrap 5 HTML5 Admin Dashboard Template
 
-### Documentation and Getting Started
+#### Preview
 
-The overall development documentation is available at `src/docs/documentation.html`.
+ - [Demo](https://themewagon.github.io/stellar/)
 
-Get the template up and running:
+#### Download
+ - [Download from ThemeWagon](https://themewagon.com/themes/free-bootstrap-4-web-application-dashboard-template/)
+ 
+ 
+## Getting Started
 
-- npm install --global gulp-cli
-- npm install
-- cd src
-- gulp serve
+Clone from GitHub 
+```
+https://github.com/themewagon/stellar.git
+```
 
-Yup, that's it.
+## Author
+
+Design and code are completely written by BootstrapDash's design and development team.  
+
+
+## License
+
+ - Design and Code is Copyright &copy; [BootstrapDash](/https://www.bootstrapdash.com/)
+ - Licensed under [MIT]
+ - Distributed by [ThemeWagon](https://themewagon.com)
+
