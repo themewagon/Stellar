@@ -1,4 +1,4 @@
-# PolluxUI – Free Bootstrap 5 HTML5 Admin Dashboard Template
+# Stellar Admin – Free Bootstrap 5 Web Application Dashboard Template
 
 #### Preview
 
